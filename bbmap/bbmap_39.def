@@ -1,0 +1,11 @@
+BootStrap: library
+From: library://goodsonjr/python/micromamba:latest
+
+%post
+    micromamba install -q -c bioconda bbmap=39 -y
+
+%runscript
+    bbduk.sh
+
+%labels
+    Author DNA-GTx

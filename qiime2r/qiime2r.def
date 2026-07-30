@@ -1,0 +1,16 @@
+BootStrap: docker
+From: bioconductor/bioconductor:RELEASE_3_16
+
+%post
+    Rscript -e "install.packages(c('dplyr', 'argparse', 'devtools', 'yulab.utils'))"
+    Rscript -e "library(dplyr); library(devtools)"
+    Rscript -e "BiocManager::install(c('treeio', 'Hmisc', 'TreeSummarizedExperiment'))"
+    Rscript -e "library(treeio); library(Hmisc); library(TreeSummarizedExperiment)"
+    Rscript -e "devtools::install_github('jbisanz/qiime2R@2a3cee1')"
+    Rscript -e "library(qiime2R)"
+
+%runscript
+    R --version
+
+%labels
+    Author DNA-GTx

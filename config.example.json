@@ -1,0 +1,7 @@
+{
+    "ref_abundances": "data/feces_Specie_full_abundance_v3.csv",
+    "ref_abundances_norm": "data/feces_Specie_full_abundance_v3.norm1k.csv",
+    "adapters_fasta_path": "path/to/illumina_adapters.fa",
+    "greengenes_classifier_path": "path/to/gg-13-8-99-nb-classifier.qza",
+    "singularity_builds": "path/to/singularity_sif"
+}

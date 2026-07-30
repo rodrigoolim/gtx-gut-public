@@ -1,0 +1,3611 @@
+{
+    "ERR9834955": {
+        "total_count": 34746,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 899.0,
+        "bacteroidetes_count": 92.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834956": {
+        "total_count": 36675,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 856.0,
+        "bacteroidetes_count": 125.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834957": {
+        "total_count": 23588,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 877.0,
+        "bacteroidetes_count": 102.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834958": {
+        "total_count": 32449,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 903.0,
+        "bacteroidetes_count": 75.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834959": {
+        "total_count": 33421,
+        "total_count_norm1k": 996.0,
+        "low_read_count": false,
+        "firmicutes_count": 936.0,
+        "bacteroidetes_count": 28.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834960": {
+        "total_count": 35548,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 743.0,
+        "bacteroidetes_count": 233.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834961": {
+        "total_count": 42495,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 885.0,
+        "bacteroidetes_count": 100.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834962": {
+        "total_count": 42812,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 777.0,
+        "bacteroidetes_count": 219.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834963": {
+        "total_count": 39180,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 928.0,
+        "bacteroidetes_count": 38.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834964": {
+        "total_count": 46971,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 691.0,
+        "bacteroidetes_count": 292.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834965": {
+        "total_count": 36802,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 772.0,
+        "bacteroidetes_count": 190.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834966": {
+        "total_count": 24241,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 805.0,
+        "bacteroidetes_count": 168.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834967": {
+        "total_count": 36767,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 832.0,
+        "bacteroidetes_count": 57.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834968": {
+        "total_count": 40264,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 865.0,
+        "bacteroidetes_count": 106.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834969": {
+        "total_count": 36755,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 642.0,
+        "bacteroidetes_count": 353.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834975": {
+        "total_count": 44253,
+        "total_count_norm1k": 986.0,
+        "low_read_count": false,
+        "firmicutes_count": 739.0,
+        "bacteroidetes_count": 177.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834976": {
+        "total_count": 33757,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 915.0,
+        "bacteroidetes_count": 70.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834977": {
+        "total_count": 47072,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 844.0,
+        "bacteroidetes_count": 149.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834978": {
+        "total_count": 31321,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 843.0,
+        "bacteroidetes_count": 144.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834979": {
+        "total_count": 47877,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 867.0,
+        "bacteroidetes_count": 105.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834980": {
+        "total_count": 26541,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 914.0,
+        "bacteroidetes_count": 17.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834981": {
+        "total_count": 47745,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 750.0,
+        "bacteroidetes_count": 241.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834982": {
+        "total_count": 46613,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 941.0,
+        "bacteroidetes_count": 58.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834983": {
+        "total_count": 33114,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 856.0,
+        "bacteroidetes_count": 133.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834984": {
+        "total_count": 31741,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 944.0,
+        "bacteroidetes_count": 53.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834985": {
+        "total_count": 22182,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 892.0,
+        "bacteroidetes_count": 99.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834986": {
+        "total_count": 28455,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 867.0,
+        "bacteroidetes_count": 115.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834987": {
+        "total_count": 21261,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 795.0,
+        "bacteroidetes_count": 192.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834988": {
+        "total_count": 33074,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 787.0,
+        "bacteroidetes_count": 210.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834989": {
+        "total_count": 31724,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 819.0,
+        "bacteroidetes_count": 179.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834990": {
+        "total_count": 37437,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 906.0,
+        "bacteroidetes_count": 86.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834991": {
+        "total_count": 43845,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 909.0,
+        "bacteroidetes_count": 78.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834992": {
+        "total_count": 29990,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 900.0,
+        "bacteroidetes_count": 90.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834993": {
+        "total_count": 32025,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 902.0,
+        "bacteroidetes_count": 62.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834994": {
+        "total_count": 32849,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 776.0,
+        "bacteroidetes_count": 209.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834995": {
+        "total_count": 30036,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 755.0,
+        "bacteroidetes_count": 235.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834996": {
+        "total_count": 24356,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 884.0,
+        "bacteroidetes_count": 102.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834997": {
+        "total_count": 37224,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 946.0,
+        "bacteroidetes_count": 33.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834998": {
+        "total_count": 27042,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 957.0,
+        "bacteroidetes_count": 39.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9834999": {
+        "total_count": 51158,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 457.0,
+        "bacteroidetes_count": 543.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835000": {
+        "total_count": 41868,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 913.0,
+        "bacteroidetes_count": 63.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835001": {
+        "total_count": 46796,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 677.0,
+        "bacteroidetes_count": 314.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835002": {
+        "total_count": 41556,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 864.0,
+        "bacteroidetes_count": 125.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835003": {
+        "total_count": 29395,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 809.0,
+        "bacteroidetes_count": 176.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835004": {
+        "total_count": 41828,
+        "total_count_norm1k": 995.0,
+        "low_read_count": false,
+        "firmicutes_count": 823.0,
+        "bacteroidetes_count": 142.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835005": {
+        "total_count": 45242,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 771.0,
+        "bacteroidetes_count": 207.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835006": {
+        "total_count": 48171,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 995.0,
+        "bacteroidetes_count": 2.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835007": {
+        "total_count": 24452,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 865.0,
+        "bacteroidetes_count": 93.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835008": {
+        "total_count": 45469,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 913.0,
+        "bacteroidetes_count": 67.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835009": {
+        "total_count": 40259,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 811.0,
+        "bacteroidetes_count": 175.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835010": {
+        "total_count": 29169,
+        "total_count_norm1k": 954.0,
+        "low_read_count": false,
+        "firmicutes_count": 908.0,
+        "bacteroidetes_count": 17.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835011": {
+        "total_count": 46217,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 841.0,
+        "bacteroidetes_count": 141.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835012": {
+        "total_count": 43754,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 969.0,
+        "bacteroidetes_count": 25.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835013": {
+        "total_count": 53408,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 807.0,
+        "bacteroidetes_count": 177.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835014": {
+        "total_count": 21828,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 931.0,
+        "bacteroidetes_count": 58.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835015": {
+        "total_count": 41918,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 984.0,
+        "bacteroidetes_count": 5.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835016": {
+        "total_count": 42037,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 940.0,
+        "bacteroidetes_count": 42.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835017": {
+        "total_count": 26971,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 949.0,
+        "bacteroidetes_count": 40.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835018": {
+        "total_count": 24822,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 924.0,
+        "bacteroidetes_count": 58.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835019": {
+        "total_count": 48512,
+        "total_count_norm1k": 997.0,
+        "low_read_count": false,
+        "firmicutes_count": 815.0,
+        "bacteroidetes_count": 147.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835020": {
+        "total_count": 40584,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 580.0,
+        "bacteroidetes_count": 413.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835021": {
+        "total_count": 30785,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 945.0,
+        "bacteroidetes_count": 49.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835022": {
+        "total_count": 36806,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 674.0,
+        "bacteroidetes_count": 316.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835023": {
+        "total_count": 32322,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 810.0,
+        "bacteroidetes_count": 164.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835024": {
+        "total_count": 43594,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 940.0,
+        "bacteroidetes_count": 26.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835025": {
+        "total_count": 38035,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 596.0,
+        "bacteroidetes_count": 378.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835026": {
+        "total_count": 48822,
+        "total_count_norm1k": 958.0,
+        "low_read_count": false,
+        "firmicutes_count": 810.0,
+        "bacteroidetes_count": 70.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835027": {
+        "total_count": 57821,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 732.0,
+        "bacteroidetes_count": 234.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835028": {
+        "total_count": 42257,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 765.0,
+        "bacteroidetes_count": 190.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835029": {
+        "total_count": 23839,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 873.0,
+        "bacteroidetes_count": 93.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835030": {
+        "total_count": 42419,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 817.0,
+        "bacteroidetes_count": 159.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835031": {
+        "total_count": 14257,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 525.0,
+        "bacteroidetes_count": 462.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835033": {
+        "total_count": 44985,
+        "total_count_norm1k": 994.0,
+        "low_read_count": false,
+        "firmicutes_count": 944.0,
+        "bacteroidetes_count": 20.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835034": {
+        "total_count": 25609,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 790.0,
+        "bacteroidetes_count": 138.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835035": {
+        "total_count": 41711,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 843.0,
+        "bacteroidetes_count": 136.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835041": {
+        "total_count": 64008,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 839.0,
+        "bacteroidetes_count": 160.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835042": {
+        "total_count": 53249,
+        "total_count_norm1k": 995.0,
+        "low_read_count": false,
+        "firmicutes_count": 808.0,
+        "bacteroidetes_count": 161.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835043": {
+        "total_count": 32925,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 860.0,
+        "bacteroidetes_count": 110.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835044": {
+        "total_count": 36097,
+        "total_count_norm1k": 996.0,
+        "low_read_count": false,
+        "firmicutes_count": 902.0,
+        "bacteroidetes_count": 54.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835045": {
+        "total_count": 38274,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 852.0,
+        "bacteroidetes_count": 119.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835046": {
+        "total_count": 48134,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 789.0,
+        "bacteroidetes_count": 193.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835047": {
+        "total_count": 31360,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 457.0,
+        "bacteroidetes_count": 537.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835048": {
+        "total_count": 41948,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 904.0,
+        "bacteroidetes_count": 19.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835049": {
+        "total_count": 31078,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 874.0,
+        "bacteroidetes_count": 119.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835050": {
+        "total_count": 34793,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 935.0,
+        "bacteroidetes_count": 46.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835051": {
+        "total_count": 32565,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 774.0,
+        "bacteroidetes_count": 189.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835052": {
+        "total_count": 34251,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 675.0,
+        "bacteroidetes_count": 296.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835058": {
+        "total_count": 38991,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 800.0,
+        "bacteroidetes_count": 185.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835059": {
+        "total_count": 36501,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 850.0,
+        "bacteroidetes_count": 135.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835060": {
+        "total_count": 22971,
+        "total_count_norm1k": 988.0,
+        "low_read_count": false,
+        "firmicutes_count": 835.0,
+        "bacteroidetes_count": 142.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835061": {
+        "total_count": 20186,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 793.0,
+        "bacteroidetes_count": 175.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835062": {
+        "total_count": 25811,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 896.0,
+        "bacteroidetes_count": 47.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835063": {
+        "total_count": 24694,
+        "total_count_norm1k": 996.0,
+        "low_read_count": false,
+        "firmicutes_count": 817.0,
+        "bacteroidetes_count": 163.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835064": {
+        "total_count": 32926,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 838.0,
+        "bacteroidetes_count": 145.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835065": {
+        "total_count": 22115,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 926.0,
+        "bacteroidetes_count": 57.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835066": {
+        "total_count": 35817,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 874.0,
+        "bacteroidetes_count": 103.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835067": {
+        "total_count": 23278,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 798.0,
+        "bacteroidetes_count": 170.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835068": {
+        "total_count": 23838,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 878.0,
+        "bacteroidetes_count": 81.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835069": {
+        "total_count": 22107,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 865.0,
+        "bacteroidetes_count": 116.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835070": {
+        "total_count": 20266,
+        "total_count_norm1k": 995.0,
+        "low_read_count": false,
+        "firmicutes_count": 855.0,
+        "bacteroidetes_count": 79.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835071": {
+        "total_count": 42751,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 781.0,
+        "bacteroidetes_count": 143.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835072": {
+        "total_count": 15281,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 650.0,
+        "bacteroidetes_count": 287.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835074": {
+        "total_count": 47272,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 904.0,
+        "bacteroidetes_count": 27.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835075": {
+        "total_count": 25629,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 896.0,
+        "bacteroidetes_count": 88.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835081": {
+        "total_count": 40230,
+        "total_count_norm1k": 996.0,
+        "low_read_count": false,
+        "firmicutes_count": 902.0,
+        "bacteroidetes_count": 50.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835082": {
+        "total_count": 23705,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 821.0,
+        "bacteroidetes_count": 157.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835083": {
+        "total_count": 27730,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 929.0,
+        "bacteroidetes_count": 21.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835084": {
+        "total_count": 22640,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 868.0,
+        "bacteroidetes_count": 79.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835085": {
+        "total_count": 35665,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 878.0,
+        "bacteroidetes_count": 75.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835086": {
+        "total_count": 16147,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 400.0,
+        "bacteroidetes_count": 565.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835088": {
+        "total_count": 22706,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 804.0,
+        "bacteroidetes_count": 168.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835089": {
+        "total_count": 30307,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 778.0,
+        "bacteroidetes_count": 213.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835090": {
+        "total_count": 18674,
+        "total_count_norm1k": 996.0,
+        "low_read_count": false,
+        "firmicutes_count": 887.0,
+        "bacteroidetes_count": 55.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835092": {
+        "total_count": 29180,
+        "total_count_norm1k": 995.0,
+        "low_read_count": false,
+        "firmicutes_count": 864.0,
+        "bacteroidetes_count": 98.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835093": {
+        "total_count": 65255,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 258.0,
+        "bacteroidetes_count": 719.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835094": {
+        "total_count": 35164,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 586.0,
+        "bacteroidetes_count": 391.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835095": {
+        "total_count": 42639,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 824.0,
+        "bacteroidetes_count": 168.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835096": {
+        "total_count": 28252,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 863.0,
+        "bacteroidetes_count": 120.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835097": {
+        "total_count": 32946,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 883.0,
+        "bacteroidetes_count": 102.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835098": {
+        "total_count": 47154,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 765.0,
+        "bacteroidetes_count": 217.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835099": {
+        "total_count": 47503,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 859.0,
+        "bacteroidetes_count": 103.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835100": {
+        "total_count": 52523,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 609.0,
+        "bacteroidetes_count": 329.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835106": {
+        "total_count": 40771,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 862.0,
+        "bacteroidetes_count": 89.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835107": {
+        "total_count": 42232,
+        "total_count_norm1k": 993.0,
+        "low_read_count": false,
+        "firmicutes_count": 916.0,
+        "bacteroidetes_count": 65.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835108": {
+        "total_count": 37929,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 626.0,
+        "bacteroidetes_count": 364.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835109": {
+        "total_count": 23960,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 794.0,
+        "bacteroidetes_count": 174.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835111": {
+        "total_count": 70538,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 825.0,
+        "bacteroidetes_count": 160.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835112": {
+        "total_count": 25420,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 937.0,
+        "bacteroidetes_count": 26.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835113": {
+        "total_count": 24699,
+        "total_count_norm1k": 995.0,
+        "low_read_count": false,
+        "firmicutes_count": 852.0,
+        "bacteroidetes_count": 108.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835114": {
+        "total_count": 24667,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 865.0,
+        "bacteroidetes_count": 107.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835115": {
+        "total_count": 28815,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 887.0,
+        "bacteroidetes_count": 86.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835116": {
+        "total_count": 26426,
+        "total_count_norm1k": 963.0,
+        "low_read_count": false,
+        "firmicutes_count": 835.0,
+        "bacteroidetes_count": 26.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835117": {
+        "total_count": 21812,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 908.0,
+        "bacteroidetes_count": 66.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835118": {
+        "total_count": 39191,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 711.0,
+        "bacteroidetes_count": 282.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835119": {
+        "total_count": 28259,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 861.0,
+        "bacteroidetes_count": 109.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835120": {
+        "total_count": 27630,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 794.0,
+        "bacteroidetes_count": 197.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835121": {
+        "total_count": 24123,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 876.0,
+        "bacteroidetes_count": 67.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835122": {
+        "total_count": 51261,
+        "total_count_norm1k": 975.0,
+        "low_read_count": false,
+        "firmicutes_count": 830.0,
+        "bacteroidetes_count": 68.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835123": {
+        "total_count": 27186,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 876.0,
+        "bacteroidetes_count": 72.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835124": {
+        "total_count": 39339,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 812.0,
+        "bacteroidetes_count": 147.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835125": {
+        "total_count": 27153,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 927.0,
+        "bacteroidetes_count": 57.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835126": {
+        "total_count": 27037,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 854.0,
+        "bacteroidetes_count": 121.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835127": {
+        "total_count": 46576,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 478.0,
+        "bacteroidetes_count": 476.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835128": {
+        "total_count": 27789,
+        "total_count_norm1k": 997.0,
+        "low_read_count": false,
+        "firmicutes_count": 809.0,
+        "bacteroidetes_count": 168.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835129": {
+        "total_count": 25739,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 904.0,
+        "bacteroidetes_count": 67.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835130": {
+        "total_count": 35374,
+        "total_count_norm1k": 978.0,
+        "low_read_count": false,
+        "firmicutes_count": 820.0,
+        "bacteroidetes_count": 128.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835131": {
+        "total_count": 26502,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 900.0,
+        "bacteroidetes_count": 85.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835132": {
+        "total_count": 28793,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 656.0,
+        "bacteroidetes_count": 326.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835133": {
+        "total_count": 25431,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 739.0,
+        "bacteroidetes_count": 252.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835135": {
+        "total_count": 27167,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 875.0,
+        "bacteroidetes_count": 93.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835136": {
+        "total_count": 39415,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 885.0,
+        "bacteroidetes_count": 109.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835137": {
+        "total_count": 37747,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 828.0,
+        "bacteroidetes_count": 122.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835138": {
+        "total_count": 53237,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 889.0,
+        "bacteroidetes_count": 90.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835139": {
+        "total_count": 26178,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 878.0,
+        "bacteroidetes_count": 108.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835140": {
+        "total_count": 29943,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 862.0,
+        "bacteroidetes_count": 123.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835141": {
+        "total_count": 26616,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 733.0,
+        "bacteroidetes_count": 223.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835142": {
+        "total_count": 25982,
+        "total_count_norm1k": 996.0,
+        "low_read_count": false,
+        "firmicutes_count": 907.0,
+        "bacteroidetes_count": 68.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835143": {
+        "total_count": 43483,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 601.0,
+        "bacteroidetes_count": 169.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835144": {
+        "total_count": 34845,
+        "total_count_norm1k": 993.0,
+        "low_read_count": false,
+        "firmicutes_count": 873.0,
+        "bacteroidetes_count": 87.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835146": {
+        "total_count": 44313,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 646.0,
+        "bacteroidetes_count": 303.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835147": {
+        "total_count": 18830,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 765.0,
+        "bacteroidetes_count": 222.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835148": {
+        "total_count": 51768,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 872.0,
+        "bacteroidetes_count": 113.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835149": {
+        "total_count": 15632,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 857.0,
+        "bacteroidetes_count": 123.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835151": {
+        "total_count": 25652,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 888.0,
+        "bacteroidetes_count": 95.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835152": {
+        "total_count": 41991,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 910.0,
+        "bacteroidetes_count": 76.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835154": {
+        "total_count": 22120,
+        "total_count_norm1k": 997.0,
+        "low_read_count": false,
+        "firmicutes_count": 775.0,
+        "bacteroidetes_count": 188.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835155": {
+        "total_count": 22640,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 870.0,
+        "bacteroidetes_count": 111.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835156": {
+        "total_count": 3260,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": true,
+        "firmicutes_count": 727.0,
+        "bacteroidetes_count": 241.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835158": {
+        "total_count": 13519,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 885.0,
+        "bacteroidetes_count": 94.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835160": {
+        "total_count": 27234,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 620.0,
+        "bacteroidetes_count": 357.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835161": {
+        "total_count": 22859,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 868.0,
+        "bacteroidetes_count": 101.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835162": {
+        "total_count": 19183,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 781.0,
+        "bacteroidetes_count": 177.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835163": {
+        "total_count": 9000,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": true,
+        "firmicutes_count": 860.0,
+        "bacteroidetes_count": 124.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835164": {
+        "total_count": 21949,
+        "total_count_norm1k": 995.0,
+        "low_read_count": false,
+        "firmicutes_count": 577.0,
+        "bacteroidetes_count": 401.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835165": {
+        "total_count": 11989,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 752.0,
+        "bacteroidetes_count": 147.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835167": {
+        "total_count": 19800,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 893.0,
+        "bacteroidetes_count": 71.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835168": {
+        "total_count": 17500,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 822.0,
+        "bacteroidetes_count": 134.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835171": {
+        "total_count": 26266,
+        "total_count_norm1k": 997.0,
+        "low_read_count": false,
+        "firmicutes_count": 865.0,
+        "bacteroidetes_count": 108.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835172": {
+        "total_count": 26466,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 735.0,
+        "bacteroidetes_count": 255.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835173": {
+        "total_count": 26454,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 817.0,
+        "bacteroidetes_count": 173.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835174": {
+        "total_count": 9781,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": true,
+        "firmicutes_count": 918.0,
+        "bacteroidetes_count": 74.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835176": {
+        "total_count": 6078,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": true,
+        "firmicutes_count": 697.0,
+        "bacteroidetes_count": 269.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835179": {
+        "total_count": 24196,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 892.0,
+        "bacteroidetes_count": 93.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835180": {
+        "total_count": 12095,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 892.0,
+        "bacteroidetes_count": 97.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835182": {
+        "total_count": 58270,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 840.0,
+        "bacteroidetes_count": 129.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835183": {
+        "total_count": 15138,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 950.0,
+        "bacteroidetes_count": 37.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835185": {
+        "total_count": 16205,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 903.0,
+        "bacteroidetes_count": 80.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835187": {
+        "total_count": 20400,
+        "total_count_norm1k": 995.0,
+        "low_read_count": false,
+        "firmicutes_count": 881.0,
+        "bacteroidetes_count": 100.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835188": {
+        "total_count": 17512,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 629.0,
+        "bacteroidetes_count": 368.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835189": {
+        "total_count": 50817,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 861.0,
+        "bacteroidetes_count": 119.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835190": {
+        "total_count": 54498,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 846.0,
+        "bacteroidetes_count": 77.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835191": {
+        "total_count": 5772,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": true,
+        "firmicutes_count": 737.0,
+        "bacteroidetes_count": 249.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835193": {
+        "total_count": 8933,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": true,
+        "firmicutes_count": 791.0,
+        "bacteroidetes_count": 80.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835195": {
+        "total_count": 12089,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 888.0,
+        "bacteroidetes_count": 93.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835197": {
+        "total_count": 46088,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 826.0,
+        "bacteroidetes_count": 150.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835198": {
+        "total_count": 31851,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 822.0,
+        "bacteroidetes_count": 140.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835199": {
+        "total_count": 51534,
+        "total_count_norm1k": 988.0,
+        "low_read_count": false,
+        "firmicutes_count": 907.0,
+        "bacteroidetes_count": 34.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835200": {
+        "total_count": 53361,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 748.0,
+        "bacteroidetes_count": 227.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835201": {
+        "total_count": 45364,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 870.0,
+        "bacteroidetes_count": 92.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835202": {
+        "total_count": 51566,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 865.0,
+        "bacteroidetes_count": 117.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835203": {
+        "total_count": 34144,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 627.0,
+        "bacteroidetes_count": 271.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835204": {
+        "total_count": 44569,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 813.0,
+        "bacteroidetes_count": 186.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835205": {
+        "total_count": 37861,
+        "total_count_norm1k": 986.0,
+        "low_read_count": false,
+        "firmicutes_count": 829.0,
+        "bacteroidetes_count": 88.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835206": {
+        "total_count": 38426,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 888.0,
+        "bacteroidetes_count": 103.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835207": {
+        "total_count": 39995,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 933.0,
+        "bacteroidetes_count": 55.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835209": {
+        "total_count": 44539,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 916.0,
+        "bacteroidetes_count": 74.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835211": {
+        "total_count": 38163,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 772.0,
+        "bacteroidetes_count": 188.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835212": {
+        "total_count": 28405,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 771.0,
+        "bacteroidetes_count": 192.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835213": {
+        "total_count": 51965,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 839.0,
+        "bacteroidetes_count": 124.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835214": {
+        "total_count": 37044,
+        "total_count_norm1k": 996.0,
+        "low_read_count": false,
+        "firmicutes_count": 923.0,
+        "bacteroidetes_count": 66.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835215": {
+        "total_count": 19425,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 900.0,
+        "bacteroidetes_count": 85.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835216": {
+        "total_count": 25243,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 793.0,
+        "bacteroidetes_count": 195.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835217": {
+        "total_count": 39620,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 850.0,
+        "bacteroidetes_count": 130.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835218": {
+        "total_count": 46907,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 855.0,
+        "bacteroidetes_count": 127.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835219": {
+        "total_count": 34207,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 826.0,
+        "bacteroidetes_count": 162.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835220": {
+        "total_count": 24112,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 962.0,
+        "bacteroidetes_count": 4.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835221": {
+        "total_count": 18300,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 903.0,
+        "bacteroidetes_count": 55.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835223": {
+        "total_count": 11938,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 897.0,
+        "bacteroidetes_count": 99.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835226": {
+        "total_count": 31542,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 896.0,
+        "bacteroidetes_count": 80.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835227": {
+        "total_count": 31902,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 811.0,
+        "bacteroidetes_count": 172.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835229": {
+        "total_count": 36889,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 860.0,
+        "bacteroidetes_count": 98.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835230": {
+        "total_count": 36928,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 894.0,
+        "bacteroidetes_count": 73.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835231": {
+        "total_count": 36784,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 748.0,
+        "bacteroidetes_count": 237.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835232": {
+        "total_count": 46535,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 794.0,
+        "bacteroidetes_count": 142.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835233": {
+        "total_count": 17648,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 918.0,
+        "bacteroidetes_count": 22.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835234": {
+        "total_count": 22779,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 707.0,
+        "bacteroidetes_count": 281.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835235": {
+        "total_count": 37867,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 775.0,
+        "bacteroidetes_count": 192.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835236": {
+        "total_count": 21215,
+        "total_count_norm1k": 997.0,
+        "low_read_count": false,
+        "firmicutes_count": 832.0,
+        "bacteroidetes_count": 152.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835237": {
+        "total_count": 20862,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 767.0,
+        "bacteroidetes_count": 127.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835238": {
+        "total_count": 24154,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 891.0,
+        "bacteroidetes_count": 103.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835239": {
+        "total_count": 19470,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 544.0,
+        "bacteroidetes_count": 418.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835240": {
+        "total_count": 53901,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 752.0,
+        "bacteroidetes_count": 217.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835241": {
+        "total_count": 24748,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 738.0,
+        "bacteroidetes_count": 241.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835242": {
+        "total_count": 52462,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 723.0,
+        "bacteroidetes_count": 262.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835243": {
+        "total_count": 22255,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 872.0,
+        "bacteroidetes_count": 69.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835244": {
+        "total_count": 17252,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 832.0,
+        "bacteroidetes_count": 148.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835246": {
+        "total_count": 18868,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 657.0,
+        "bacteroidetes_count": 336.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835247": {
+        "total_count": 22862,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 762.0,
+        "bacteroidetes_count": 232.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835249": {
+        "total_count": 45871,
+        "total_count_norm1k": 996.0,
+        "low_read_count": false,
+        "firmicutes_count": 729.0,
+        "bacteroidetes_count": 158.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835250": {
+        "total_count": 16692,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 916.0,
+        "bacteroidetes_count": 81.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835252": {
+        "total_count": 44288,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 757.0,
+        "bacteroidetes_count": 221.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835253": {
+        "total_count": 6352,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": true,
+        "firmicutes_count": 647.0,
+        "bacteroidetes_count": 301.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835255": {
+        "total_count": 13995,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 774.0,
+        "bacteroidetes_count": 212.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835257": {
+        "total_count": 21956,
+        "total_count_norm1k": 983.0,
+        "low_read_count": false,
+        "firmicutes_count": 843.0,
+        "bacteroidetes_count": 63.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835258": {
+        "total_count": 11692,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 937.0,
+        "bacteroidetes_count": 25.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835260": {
+        "total_count": 24315,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 472.0,
+        "bacteroidetes_count": 512.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835261": {
+        "total_count": 22604,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 833.0,
+        "bacteroidetes_count": 49.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835262": {
+        "total_count": 19099,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 493.0,
+        "bacteroidetes_count": 494.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835263": {
+        "total_count": 43570,
+        "total_count_norm1k": 993.0,
+        "low_read_count": false,
+        "firmicutes_count": 912.0,
+        "bacteroidetes_count": 40.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835264": {
+        "total_count": 13439,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 877.0,
+        "bacteroidetes_count": 103.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835267": {
+        "total_count": 38197,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 744.0,
+        "bacteroidetes_count": 186.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835268": {
+        "total_count": 17988,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 847.0,
+        "bacteroidetes_count": 128.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835269": {
+        "total_count": 24930,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 900.0,
+        "bacteroidetes_count": 98.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835270": {
+        "total_count": 23876,
+        "total_count_norm1k": 995.0,
+        "low_read_count": false,
+        "firmicutes_count": 909.0,
+        "bacteroidetes_count": 51.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835271": {
+        "total_count": 21818,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 842.0,
+        "bacteroidetes_count": 118.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835272": {
+        "total_count": 23857,
+        "total_count_norm1k": 993.0,
+        "low_read_count": false,
+        "firmicutes_count": 842.0,
+        "bacteroidetes_count": 113.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835273": {
+        "total_count": 24269,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 871.0,
+        "bacteroidetes_count": 111.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835274": {
+        "total_count": 28647,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 794.0,
+        "bacteroidetes_count": 171.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835275": {
+        "total_count": 24121,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 949.0,
+        "bacteroidetes_count": 42.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835276": {
+        "total_count": 41123,
+        "total_count_norm1k": 997.0,
+        "low_read_count": false,
+        "firmicutes_count": 844.0,
+        "bacteroidetes_count": 129.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835277": {
+        "total_count": 20532,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 830.0,
+        "bacteroidetes_count": 143.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835278": {
+        "total_count": 34055,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 867.0,
+        "bacteroidetes_count": 114.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835279": {
+        "total_count": 47249,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 802.0,
+        "bacteroidetes_count": 179.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835282": {
+        "total_count": 25988,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 460.0,
+        "bacteroidetes_count": 515.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835283": {
+        "total_count": 20928,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 759.0,
+        "bacteroidetes_count": 216.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835284": {
+        "total_count": 18788,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 715.0,
+        "bacteroidetes_count": 199.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835287": {
+        "total_count": 28939,
+        "total_count_norm1k": 993.0,
+        "low_read_count": false,
+        "firmicutes_count": 764.0,
+        "bacteroidetes_count": 158.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835288": {
+        "total_count": 31544,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 735.0,
+        "bacteroidetes_count": 240.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835289": {
+        "total_count": 10532,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": true,
+        "firmicutes_count": 844.0,
+        "bacteroidetes_count": 132.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835292": {
+        "total_count": 28468,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 524.0,
+        "bacteroidetes_count": 469.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835293": {
+        "total_count": 1246,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": true,
+        "firmicutes_count": 701.0,
+        "bacteroidetes_count": 299.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835295": {
+        "total_count": 16995,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 790.0,
+        "bacteroidetes_count": 79.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835298": {
+        "total_count": 57250,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 786.0,
+        "bacteroidetes_count": 193.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835300": {
+        "total_count": 39852,
+        "total_count_norm1k": 994.0,
+        "low_read_count": false,
+        "firmicutes_count": 870.0,
+        "bacteroidetes_count": 87.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835301": {
+        "total_count": 23864,
+        "total_count_norm1k": 995.0,
+        "low_read_count": false,
+        "firmicutes_count": 800.0,
+        "bacteroidetes_count": 118.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835303": {
+        "total_count": 29603,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 645.0,
+        "bacteroidetes_count": 55.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835304": {
+        "total_count": 20779,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 831.0,
+        "bacteroidetes_count": 162.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835305": {
+        "total_count": 39844,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 858.0,
+        "bacteroidetes_count": 112.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835306": {
+        "total_count": 35413,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 844.0,
+        "bacteroidetes_count": 106.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835307": {
+        "total_count": 36570,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 743.0,
+        "bacteroidetes_count": 230.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835308": {
+        "total_count": 41029,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 859.0,
+        "bacteroidetes_count": 104.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835309": {
+        "total_count": 37645,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 813.0,
+        "bacteroidetes_count": 180.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835310": {
+        "total_count": 35499,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 589.0,
+        "bacteroidetes_count": 400.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835311": {
+        "total_count": 33722,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 887.0,
+        "bacteroidetes_count": 106.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835312": {
+        "total_count": 33210,
+        "total_count_norm1k": 997.0,
+        "low_read_count": false,
+        "firmicutes_count": 708.0,
+        "bacteroidetes_count": 234.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835313": {
+        "total_count": 33108,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 818.0,
+        "bacteroidetes_count": 33.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835315": {
+        "total_count": 38628,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 812.0,
+        "bacteroidetes_count": 174.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835316": {
+        "total_count": 41526,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 932.0,
+        "bacteroidetes_count": 59.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835317": {
+        "total_count": 32653,
+        "total_count_norm1k": 990.0,
+        "low_read_count": false,
+        "firmicutes_count": 886.0,
+        "bacteroidetes_count": 59.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835318": {
+        "total_count": 34702,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 542.0,
+        "bacteroidetes_count": 447.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835319": {
+        "total_count": 26372,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 842.0,
+        "bacteroidetes_count": 88.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835320": {
+        "total_count": 35906,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 890.0,
+        "bacteroidetes_count": 64.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835321": {
+        "total_count": 41784,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 824.0,
+        "bacteroidetes_count": 172.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835322": {
+        "total_count": 49124,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 704.0,
+        "bacteroidetes_count": 240.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835323": {
+        "total_count": 41212,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 753.0,
+        "bacteroidetes_count": 214.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835325": {
+        "total_count": 28845,
+        "total_count_norm1k": 983.0,
+        "low_read_count": false,
+        "firmicutes_count": 857.0,
+        "bacteroidetes_count": 99.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835326": {
+        "total_count": 26583,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 819.0,
+        "bacteroidetes_count": 164.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835327": {
+        "total_count": 32466,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 582.0,
+        "bacteroidetes_count": 407.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835328": {
+        "total_count": 33972,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 818.0,
+        "bacteroidetes_count": 161.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835329": {
+        "total_count": 31797,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 765.0,
+        "bacteroidetes_count": 201.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835332": {
+        "total_count": 51915,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 517.0,
+        "bacteroidetes_count": 479.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835334": {
+        "total_count": 31453,
+        "total_count_norm1k": 987.0,
+        "low_read_count": false,
+        "firmicutes_count": 912.0,
+        "bacteroidetes_count": 16.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835335": {
+        "total_count": 31798,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 717.0,
+        "bacteroidetes_count": 268.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835337": {
+        "total_count": 20020,
+        "total_count_norm1k": 996.0,
+        "low_read_count": false,
+        "firmicutes_count": 859.0,
+        "bacteroidetes_count": 116.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835338": {
+        "total_count": 27865,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 777.0,
+        "bacteroidetes_count": 204.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835339": {
+        "total_count": 36753,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 747.0,
+        "bacteroidetes_count": 230.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835340": {
+        "total_count": 34831,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 857.0,
+        "bacteroidetes_count": 132.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835341": {
+        "total_count": 47001,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 623.0,
+        "bacteroidetes_count": 333.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835343": {
+        "total_count": 32032,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 783.0,
+        "bacteroidetes_count": 197.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835345": {
+        "total_count": 33277,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 794.0,
+        "bacteroidetes_count": 189.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835347": {
+        "total_count": 26511,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 918.0,
+        "bacteroidetes_count": 50.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835349": {
+        "total_count": 35341,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 898.0,
+        "bacteroidetes_count": 81.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835351": {
+        "total_count": 28533,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 896.0,
+        "bacteroidetes_count": 66.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835353": {
+        "total_count": 25930,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 932.0,
+        "bacteroidetes_count": 44.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835354": {
+        "total_count": 27590,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 913.0,
+        "bacteroidetes_count": 79.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835355": {
+        "total_count": 28102,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 860.0,
+        "bacteroidetes_count": 127.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835357": {
+        "total_count": 26476,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 881.0,
+        "bacteroidetes_count": 105.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835360": {
+        "total_count": 30009,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 875.0,
+        "bacteroidetes_count": 87.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835363": {
+        "total_count": 27263,
+        "total_count_norm1k": 997.0,
+        "low_read_count": false,
+        "firmicutes_count": 909.0,
+        "bacteroidetes_count": 42.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835364": {
+        "total_count": 39132,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 740.0,
+        "bacteroidetes_count": 240.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835365": {
+        "total_count": 35759,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 925.0,
+        "bacteroidetes_count": 51.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835366": {
+        "total_count": 26611,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 894.0,
+        "bacteroidetes_count": 10.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835368": {
+        "total_count": 18167,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 844.0,
+        "bacteroidetes_count": 143.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835369": {
+        "total_count": 34754,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 863.0,
+        "bacteroidetes_count": 121.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835370": {
+        "total_count": 54598,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 431.0,
+        "bacteroidetes_count": 546.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835373": {
+        "total_count": 35828,
+        "total_count_norm1k": 997.0,
+        "low_read_count": false,
+        "firmicutes_count": 826.0,
+        "bacteroidetes_count": 151.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835374": {
+        "total_count": 37703,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 939.0,
+        "bacteroidetes_count": 43.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835375": {
+        "total_count": 37247,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 814.0,
+        "bacteroidetes_count": 155.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835376": {
+        "total_count": 27185,
+        "total_count_norm1k": 995.0,
+        "low_read_count": false,
+        "firmicutes_count": 895.0,
+        "bacteroidetes_count": 76.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835377": {
+        "total_count": 23862,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 530.0,
+        "bacteroidetes_count": 470.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835378": {
+        "total_count": 26802,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 881.0,
+        "bacteroidetes_count": 88.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835379": {
+        "total_count": 43213,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 431.0,
+        "bacteroidetes_count": 562.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835380": {
+        "total_count": 28145,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 647.0,
+        "bacteroidetes_count": 285.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835381": {
+        "total_count": 30494,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 596.0,
+        "bacteroidetes_count": 359.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835382": {
+        "total_count": 40676,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 773.0,
+        "bacteroidetes_count": 187.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835383": {
+        "total_count": 44309,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 938.0,
+        "bacteroidetes_count": 27.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835384": {
+        "total_count": 34277,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 848.0,
+        "bacteroidetes_count": 132.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835385": {
+        "total_count": 27739,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 585.0,
+        "bacteroidetes_count": 364.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835386": {
+        "total_count": 21216,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 822.0,
+        "bacteroidetes_count": 148.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835387": {
+        "total_count": 29809,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 807.0,
+        "bacteroidetes_count": 170.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835388": {
+        "total_count": 64202,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 893.0,
+        "bacteroidetes_count": 85.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835389": {
+        "total_count": 29555,
+        "total_count_norm1k": 997.0,
+        "low_read_count": false,
+        "firmicutes_count": 857.0,
+        "bacteroidetes_count": 105.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835390": {
+        "total_count": 41137,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 491.0,
+        "bacteroidetes_count": 488.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835391": {
+        "total_count": 24887,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 693.0,
+        "bacteroidetes_count": 299.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835392": {
+        "total_count": 36289,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 870.0,
+        "bacteroidetes_count": 107.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835393": {
+        "total_count": 31172,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 893.0,
+        "bacteroidetes_count": 41.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835394": {
+        "total_count": 52647,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 693.0,
+        "bacteroidetes_count": 292.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835397": {
+        "total_count": 32473,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 863.0,
+        "bacteroidetes_count": 122.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835399": {
+        "total_count": 24779,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 778.0,
+        "bacteroidetes_count": 146.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835400": {
+        "total_count": 29028,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 890.0,
+        "bacteroidetes_count": 91.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835403": {
+        "total_count": 24080,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 940.0,
+        "bacteroidetes_count": 52.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835404": {
+        "total_count": 39922,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 676.0,
+        "bacteroidetes_count": 291.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835407": {
+        "total_count": 35888,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 823.0,
+        "bacteroidetes_count": 161.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835408": {
+        "total_count": 29385,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 875.0,
+        "bacteroidetes_count": 103.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835409": {
+        "total_count": 30254,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 856.0,
+        "bacteroidetes_count": 131.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835410": {
+        "total_count": 32496,
+        "total_count_norm1k": 996.0,
+        "low_read_count": false,
+        "firmicutes_count": 820.0,
+        "bacteroidetes_count": 105.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835411": {
+        "total_count": 33633,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 876.0,
+        "bacteroidetes_count": 111.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835412": {
+        "total_count": 24844,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 850.0,
+        "bacteroidetes_count": 140.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835413": {
+        "total_count": 29276,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 879.0,
+        "bacteroidetes_count": 105.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835414": {
+        "total_count": 42542,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 856.0,
+        "bacteroidetes_count": 121.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835415": {
+        "total_count": 32583,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 856.0,
+        "bacteroidetes_count": 125.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835416": {
+        "total_count": 25375,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 850.0,
+        "bacteroidetes_count": 111.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835417": {
+        "total_count": 26983,
+        "total_count_norm1k": 995.0,
+        "low_read_count": false,
+        "firmicutes_count": 862.0,
+        "bacteroidetes_count": 92.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835418": {
+        "total_count": 36553,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 844.0,
+        "bacteroidetes_count": 114.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835420": {
+        "total_count": 28799,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 933.0,
+        "bacteroidetes_count": 31.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835429": {
+        "total_count": 8065,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": true,
+        "firmicutes_count": 352.0,
+        "bacteroidetes_count": 378.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835432": {
+        "total_count": 15058,
+        "total_count_norm1k": 990.0,
+        "low_read_count": false,
+        "firmicutes_count": 18.0,
+        "bacteroidetes_count": 434.0,
+        "firmicute_outlier": true,
+        "bacteroidetes_outlier": true
+    },
+    "ERR9835451": {
+        "total_count": 25254,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 760.0,
+        "bacteroidetes_count": 0.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835452": {
+        "total_count": 37595,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 805.0,
+        "bacteroidetes_count": 0.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835453": {
+        "total_count": 24046,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 765.0,
+        "bacteroidetes_count": 0.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835454": {
+        "total_count": 34137,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 797.0,
+        "bacteroidetes_count": 0.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835455": {
+        "total_count": 22379,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 802.0,
+        "bacteroidetes_count": 0.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835456": {
+        "total_count": 19403,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 777.0,
+        "bacteroidetes_count": 0.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835457": {
+        "total_count": 40848,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 759.0,
+        "bacteroidetes_count": 0.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835458": {
+        "total_count": 38922,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 735.0,
+        "bacteroidetes_count": 0.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835459": {
+        "total_count": 53557,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 789.0,
+        "bacteroidetes_count": 0.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835460": {
+        "total_count": 47418,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 789.0,
+        "bacteroidetes_count": 0.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835461": {
+        "total_count": 16122,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 827.0,
+        "bacteroidetes_count": 0.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835462": {
+        "total_count": 54588,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 790.0,
+        "bacteroidetes_count": 0.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835463": {
+        "total_count": 21071,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 791.0,
+        "bacteroidetes_count": 0.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835464": {
+        "total_count": 25228,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 784.0,
+        "bacteroidetes_count": 2.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835465": {
+        "total_count": 23577,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 803.0,
+        "bacteroidetes_count": 0.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835466": {
+        "total_count": 29837,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 807.0,
+        "bacteroidetes_count": 0.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835467": {
+        "total_count": 40945,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 765.0,
+        "bacteroidetes_count": 1.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835468": {
+        "total_count": 28382,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 808.0,
+        "bacteroidetes_count": 3.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835469": {
+        "total_count": 18977,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 795.0,
+        "bacteroidetes_count": 2.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835470": {
+        "total_count": 30498,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 921.0,
+        "bacteroidetes_count": 42.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835471": {
+        "total_count": 23790,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 900.0,
+        "bacteroidetes_count": 73.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835472": {
+        "total_count": 32648,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 915.0,
+        "bacteroidetes_count": 56.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835473": {
+        "total_count": 24675,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 903.0,
+        "bacteroidetes_count": 53.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835474": {
+        "total_count": 46011,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 939.0,
+        "bacteroidetes_count": 47.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835475": {
+        "total_count": 35491,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 931.0,
+        "bacteroidetes_count": 50.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835476": {
+        "total_count": 41997,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 931.0,
+        "bacteroidetes_count": 41.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835477": {
+        "total_count": 20999,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 914.0,
+        "bacteroidetes_count": 42.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835478": {
+        "total_count": 44035,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 864.0,
+        "bacteroidetes_count": 91.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835479": {
+        "total_count": 43380,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 921.0,
+        "bacteroidetes_count": 31.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835480": {
+        "total_count": 16837,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 949.0,
+        "bacteroidetes_count": 30.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835481": {
+        "total_count": 21918,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 931.0,
+        "bacteroidetes_count": 41.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835482": {
+        "total_count": 33317,
+        "total_count_norm1k": 998.0,
+        "low_read_count": false,
+        "firmicutes_count": 940.0,
+        "bacteroidetes_count": 21.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835483": {
+        "total_count": 28448,
+        "total_count_norm1k": 999.0,
+        "low_read_count": false,
+        "firmicutes_count": 906.0,
+        "bacteroidetes_count": 53.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    },
+    "ERR9835484": {
+        "total_count": 22488,
+        "total_count_norm1k": 1000.0,
+        "low_read_count": false,
+        "firmicutes_count": 919.0,
+        "bacteroidetes_count": 56.0,
+        "firmicute_outlier": false,
+        "bacteroidetes_outlier": false
+    }
+}

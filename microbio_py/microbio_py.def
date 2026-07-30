@@ -1,0 +1,20 @@
+BootStrap: library
+From: library://goodsonjr/python/micromamba:latest
+
+%post
+    micromamba install -c bioconda python=3.11 openai \
+        biopython \
+        lxml \
+        libxml2 \
+        matplotlib=3.10 \
+        docxtpl -y
+
+    pip install pandas requests pytz
+    python -c "import openai; import docxtpl; import Bio"
+    pip install scipy
+
+%runscript
+    python -c "import openai; import docxtpl; import Bio"
+
+%labels
+    Author DNA-GTx
