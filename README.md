@@ -55,15 +55,41 @@ in `data/` if you want to match the dissertation exactly.
 - Python 3.11, `pip install -r requirements.txt`
 - [QIIME 2](https://qiime2.org/) (tested with 2023.9) with the `q2-dada2` and
   `q2-feature-classifier` plugins
-- A GreenGenes 13.8 (99%) Naive Bayes classifier trained for QIIME 2
-  (`gg-13-8-99-nb-classifier.qza`) -- see the [QIIME 2 data resources](https://docs.qiime2.org/)
-- [BBDuk](https://jgi.doe.gov/data-and-tools/software-tools/bbtools/) (BBMap suite) and an
-  Illumina adapters FASTA
+- [BBDuk](https://jgi.doe.gov/data-and-tools/software-tools/bbtools/) (BBMap suite)
 - R with `vegan` and `qiime2R` (for Shannon diversity calculation, `src/shannon.R`)
 
-`config.example.json` lists the paths the scripts expect; copy it to
-`config.json` and fill in your own paths. No API keys are required by anything
-in this repository.
+`resources/` bundles the two reference files needed by the steps above:
+
+- `illumina_adapters.fa` -- standard Illumina adapter sequences, for BBDuk.
+- `gg-13-8-99-nb-classifier.qza` -- pre-trained GreenGenes 13.8 (99%) Naive
+  Bayes classifier for `q2-feature-classifier`, the same one used throughout
+  the dissertation.
+
+`config.example.json` already points to both; copy it to `config.json` and
+adjust `singularity_builds` (and any other path) for your own environment. No
+API keys are required by anything in this repository.
+
+## Quickstart
+
+`examples/` includes an already-processed public sample
+([SRR37635745](https://www.ncbi.nlm.nih.gov/sra/?term=SRR37635745), a Crohn's
+disease patient, one of the eight cases discussed in the dissertation) so you
+can try the classifier immediately, without running QIIME 2/DADA2 yourself
+first:
+
+```bash
+cd src
+python generate_report_json.py \
+    --patient-abundance ../examples/SRR37635745_relative_by_levels.csv \
+    --patient-id SRR37635745 \
+    --patient-shannon 2.088 \
+    --reference-dir ../data \
+    --output results.json
+```
+
+This should classify 101 taxa and report Shannon `Very Low`, F/B ratio
+`Normal`, and `Enterotype 1 (Bacteroides)` -- matching the dissertation's
+discussion of this sample.
 
 ## Usage
 
