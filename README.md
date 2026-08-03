@@ -82,7 +82,7 @@ cd src
 python generate_report_json.py \
     --patient-abundance ../examples/SRR37635745_relative_by_levels.csv \
     --patient-id SRR37635745 \
-    --patient-shannon 2.088 \
+    --patient-shannon-csv ../examples/SRR37635745_shannon_diversity2.csv \
     --reference-dir ../data \
     --output results.json
 ```
@@ -102,17 +102,33 @@ discussion of this sample.
    - Export to a `taxon,level,<sample_id>` relative-abundance CSV
      (`src/process_patient.py`, `src/make_pop_and_patient_df.py`)
    - Shannon diversity via `src/shannon.R` on the DADA2 feature table
+     (**not** on the relative-abundance CSV above -- see note below)
 
-2. Generate the results JSON:
+2. Generate the results JSON, pointing `--patient-shannon-csv` straight at
+   shannon.R's output (no need to open the file and copy the number by hand):
 
    ```bash
+   Rscript src/shannon.R path/to/raw_derep_table.qza path/to/shannon_diversity2.csv
+
    python src/generate_report_json.py \
        --patient-abundance path/to/Specie_full_abundance.relative_by_levels.csv \
        --patient-id YOUR_SAMPLE_ID \
-       --patient-shannon 3.05 \
+       --patient-shannon-csv path/to/shannon_diversity2.csv \
        --reference-dir data \
        --output results.json
    ```
+
+   If you already have the Shannon value from elsewhere, `--patient-shannon 3.05`
+   works too (the two flags are mutually exclusive).
+
+   **Why Shannon can't be computed from `--patient-abundance` directly:** that
+   file has already been collapsed into named taxonomic levels (phylum,
+   genus, species, ...), which understates diversity relative to the raw
+   ASV table DADA2 produces. We measured this on the bundled example: Shannon
+   from species-level abundances gives 0.867, vs. 2.088 from the actual ASV
+   table used throughout the dissertation -- a large enough gap to flip the
+   `Very Low` / `Normal` classification. Always compute Shannon from the raw
+   feature table via `shannon.R`, not by re-deriving it from the collapsed CSV.
 
    Output schema:
 

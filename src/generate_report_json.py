@@ -14,12 +14,16 @@ Usage:
     python generate_report_json.py \\
         --patient-abundance path/to/Specie_full_abundance.relative_by_levels.csv \\
         --patient-id SAMPLE_ID \\
-        --patient-shannon 3.05 \\
+        --patient-shannon-csv path/to/shannon_diversity2.csv \\
         --output results.json
 
-`--patient-shannon` must be computed beforehand (e.g. with shannon.R on the
-patient's DADA2 feature table, the same way the reference population's
-Shannon values were computed -- see data/README.md).
+Shannon diversity must be computed beforehand with shannon.R on the patient's
+DADA2 feature table (the same way the reference population's Shannon values
+were computed -- see data/README.md); this script does not recompute it from
+--patient-abundance, since that file has already been collapsed to named
+taxonomic levels and would understate diversity relative to the raw ASV table.
+Pass shannon.R's output CSV directly via --patient-shannon-csv, or a bare
+number via --patient-shannon if you already have the value.
 """
 import argparse
 import json
@@ -75,6 +79,21 @@ def reference_stats_block(values):
     }
 
 
+def read_shannon_csv(path):
+    """Reads the single-value CSV produced by shannon.R (header + one
+    "<row_label>,<value>" line) and returns the float. Deliberately not
+    imported from plotting.py, which pulls in matplotlib -- this script has
+    no other need for it."""
+    import csv
+    with open(path, newline="") as f:
+        reader = csv.reader(f)
+        next(reader)  # header
+        for row in reader:
+            if len(row) == 2:
+                return float(row[1])
+    raise ValueError(f"No Shannon value found in {path}")
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--patient-abundance", required=True,
@@ -82,12 +101,20 @@ def main():
              "output of process_patient.py / make_pop_and_patient_df.py.")
     parser.add_argument("--patient-id", required=True,
         help="Column name of the patient in --patient-abundance.")
-    parser.add_argument("--patient-shannon", required=True, type=float,
-        help="Patient's Shannon diversity index, precomputed via shannon.R.")
+    shannon_group = parser.add_mutually_exclusive_group(required=True)
+    shannon_group.add_argument("--patient-shannon", type=float,
+        help="Patient's Shannon diversity index, already computed.")
+    shannon_group.add_argument("--patient-shannon-csv",
+        help="Path to the CSV produced by shannon.R for this patient -- read directly "
+             "instead of having to copy the value by hand.")
     parser.add_argument("--reference-dir", default="../data",
         help="Directory with the reference population files (default: ../data).")
     parser.add_argument("--output", required=True, help="Output JSON path.")
     args = parser.parse_args()
+
+    patient_shannon = args.patient_shannon
+    if patient_shannon is None:
+        patient_shannon = read_shannon_csv(args.patient_shannon_csv)
 
     ref_dir = args.reference_dir
     patient_df = pd.read_csv(args.patient_abundance)
@@ -111,7 +138,7 @@ def main():
     enterotype, enterotype_abundances = compute_enterotype(patient_df, patient_col)
 
     # --- Classification (Tukey/IQR via freq_stats, same logic as the product's classifier) ---
-    shannon_stats = freq_stats(ref_shannon, args.patient_shannon)
+    shannon_stats = freq_stats(ref_shannon, patient_shannon)
     fb_stats = freq_stats(ref_fb, patient_fb_ratio)
 
     taxa_results = []
@@ -140,7 +167,7 @@ def main():
     result = {
         "sample_id": patient_col,
         "shannon_diversity": {
-            "value": round(args.patient_shannon, 3),
+            "value": round(patient_shannon, 3),
             "classification": shannon_stats["classification"],
             "percentile": round(shannon_stats["patient_percentile"], 2),
             "modified_zscore": round(shannon_stats["mod_zscore"], 3),
