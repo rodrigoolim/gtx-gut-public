@@ -14,3 +14,20 @@ the dissertation's Experimentos chapter.
 
 Provided here purely as ready-to-use input for `generate_report_json.py` --
 see the Quickstart section in the main README.
+
+`fastq/` bundles already quality-filtered FASTQ (`*_gcfix.fastq.gz`) for all
+eight public samples discussed in the dissertation's Experimentos chapter --
+the raw input for the Snakefile, one file (single-end) or file pair
+(paired-end) per sample. See the main README's Requirements section for why
+quality control (BBDuk) is not part of this repository's workflow.
+
+| Sample | Condition | Layout |
+|---|---|---|
+| SRR37635745 | Crohn's Disease | single-end |
+| SRR33578315 | Type 2 Diabetes Mellitus | paired-end |
+| ERR13610605 | Irritable Bowel Syndrome | single-end |
+| SRR39497617 | Parkinson's Disease | paired-end |
+| SRR39651412 | Depression | paired-end |
+| SRR39514725 | Diarrhea | paired-end |
+| DRR519923 | Obesity | paired-end |
+| SRR37635673 | Ulcerative Colitis | single-end |
