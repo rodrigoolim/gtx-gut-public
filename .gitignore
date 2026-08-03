@@ -6,3 +6,5 @@ config.json
 *.qzv
 !resources/*.qza
 results.json
+.snakemake/
+*.stdout
