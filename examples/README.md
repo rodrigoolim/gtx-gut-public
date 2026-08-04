@@ -15,7 +15,10 @@ the dissertation's Experimentos chapter.
   `generate_report_json.py` on the two files above: Shannon `Very Low`, F/B
   ratio `Normal`, `Enterotype 1 (Bacteroides)`, 101 classified taxa. Included
   so you can compare your own run's output without having to generate one
-  first.
+  first. Note: the dissertation's comparative table reports 96 taxa for this
+  same sample -- that number comes from the private product's curated
+  disease-association database (not included here, see the main README),
+  not from a difference in Shannon/F/B/enterotype, which match exactly.
 
 The two input files are ready-to-use input for `generate_report_json.py` --
 see the Quickstart section in the main README.

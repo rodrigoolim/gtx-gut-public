@@ -99,11 +99,21 @@ cat results/SRR37635745/results.json
 This runs QIIME 2 import, DADA2 denoising, GreenGenes classification, taxa
 collapse, abundance export, Shannon diversity, and the final classification
 against the 350-sample reference population -- the same chain of steps
-described in the dissertation's Metodologia. It should classify 101 taxa and
-report Shannon `Very Low`, F/B ratio `Normal`, and `Enterotype 1 (Bacteroides)`,
-matching the dissertation's discussion of this sample. For a paired-end
-example, add `R2=examples/fastq/SRR39514725_S1_L001_R2_001_gcfix.fastq.gz`
-(and swap R1 to match) to reproduce the Diarrhea sample instead.
+described in the dissertation's Metodologia. It should report Shannon
+`Very Low`, F/B ratio `Normal`, and `Enterotype 1 (Bacteroides)`, matching the
+dissertation's discussion of this sample. For a paired-end example, add
+`R2=examples/fastq/SRR39514725_S1_L001_R2_001_gcfix.fastq.gz` (and swap R1 to
+match) to reproduce the Diarrhea sample instead.
+
+**Note on the `taxa` count:** this script classifies every taxon present in
+both the patient's abundance table and the reference population (101 for
+this sample). The dissertation's comparative table reports a different count
+(96) for the same sample, because that number comes from the private
+product's curated disease-association database -- a name-matched subset of
+taxa, not every taxon in the abundance table. That curated database is
+proprietary and not included in this repository (see "What this is NOT"
+above), so this script intentionally classifies the full taxon set instead.
+Shannon, F/B ratio, and enterotype are unaffected and match exactly.
 
 If you already have a processed sample (a relative-abundance CSV and a
 Shannon value) and just want to run the classifier itself, skip straight to
