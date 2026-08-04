@@ -1,0 +1,1351 @@
+{
+  "sample_id": "SRR37635745",
+  "shannon_diversity": {
+    "value": 2.088,
+    "classification": "Very Low",
+    "percentile": 0.0,
+    "modified_zscore": -7.399
+  },
+  "firmicutes_bacteroidetes_ratio": {
+    "value": 0.11,
+    "classification": "Normal",
+    "percentile": 0.0,
+    "modified_zscore": -1.063
+  },
+  "enterotype": "Enterotype 1 (Bacteroides)",
+  "reference_stats": {
+    "shannon": {
+      "n": 350,
+      "median": 3.197,
+      "q1": 3.121,
+      "q3": 3.277,
+      "iqr": 0.156
+    },
+    "fb_ratio": {
+      "n": 350,
+      "median": 7.454,
+      "q1": 4.566,
+      "q3": 11.924,
+      "iqr": 7.358
+    }
+  },
+  "taxa": [
+    {
+      "name": "k__Bacteria;p__Fusobacteria;c__Fusobacteriia",
+      "level": "c",
+      "relative_abundance": 0.0064365410588049,
+      "classification": "Very High",
+      "percentile": 99.15,
+      "modified_zscore": 12.572,
+      "reference": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "median": 0.0
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria",
+      "level": "c",
+      "relative_abundance": 0.4935452078795916,
+      "classification": "Very High",
+      "percentile": 99.72,
+      "modified_zscore": 84.703,
+      "reference": {
+        "q1": 0.001,
+        "q3": 0.004,
+        "median": 0.003
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Bacteroidetes;c__Flavobacteriia",
+      "level": "c",
+      "relative_abundance": 0.0001216737440227,
+      "classification": "Very High",
+      "percentile": 98.29,
+      "modified_zscore": 2.071,
+      "reference": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "median": 0.0
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria",
+      "level": "c",
+      "relative_abundance": 0.0001703432416318,
+      "classification": "Normal",
+      "percentile": 36.18,
+      "modified_zscore": -0.999,
+      "reference": {
+        "q1": 0.001,
+        "q3": 0.004,
+        "median": 0.002
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Bacilli",
+      "level": "c",
+      "relative_abundance": 0.0039787314295448,
+      "classification": "Normal",
+      "percentile": 29.91,
+      "modified_zscore": -0.502,
+      "reference": {
+        "q1": 0.003,
+        "q3": 0.014,
+        "median": 0.006
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria",
+      "level": "c",
+      "relative_abundance": 0.0067893949164709,
+      "classification": "Very High",
+      "percentile": 98.58,
+      "modified_zscore": 1.42,
+      "reference": {
+        "q1": 0.001,
+        "q3": 0.003,
+        "median": 0.002
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia",
+      "level": "c",
+      "relative_abundance": 0.0439485563410271,
+      "classification": "Very Low",
+      "percentile": 0.0,
+      "modified_zscore": -6.72,
+      "reference": {
+        "q1": 0.732,
+        "q3": 0.8482,
+        "median": 0.8015
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Bacteroidetes;c__Bacteroidia",
+      "level": "c",
+      "relative_abundance": 0.4425152396364388,
+      "classification": "Very High",
+      "percentile": 99.72,
+      "modified_zscore": 3.236,
+      "reference": {
+        "q1": 0.0744,
+        "q3": 0.175,
+        "median": 0.1146
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Actinobacteria;c__Actinobacteria",
+      "level": "c",
+      "relative_abundance": 0.0003285191088614,
+      "classification": "Normal",
+      "percentile": 24.5,
+      "modified_zscore": -0.755,
+      "reference": {
+        "q1": 0.003,
+        "q3": 0.014,
+        "median": 0.007
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Erysipelotrichi",
+      "level": "c",
+      "relative_abundance": 0.0006935403409298,
+      "classification": "Normal",
+      "percentile": 0.57,
+      "modified_zscore": -1.037,
+      "reference": {
+        "q1": 0.018,
+        "q3": 0.051,
+        "median": 0.031
+      }
+    },
+    {
+      "name": "k__Bacteria;p__OD1;c__ABY1",
+      "level": "c",
+      "relative_abundance": 0.0001216737440227,
+      "classification": "Normal",
+      "percentile": 99.43,
+      "modified_zscore": 0,
+      "reference": {
+        "q1": 0.001,
+        "q3": 0.001,
+        "median": 0.001
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Actinomycetales;f__Actinomycetaceae",
+      "level": "f",
+      "relative_abundance": 0.000329011503217,
+      "classification": "Normal",
+      "percentile": 94.87,
+      "modified_zscore": -16.257,
+      "reference": {
+        "q1": 0.001,
+        "q3": 0.001,
+        "median": 0.001
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacteriales;f__Enterobacteriaceae",
+      "level": "f",
+      "relative_abundance": 0.4874610060440631,
+      "classification": "Very High",
+      "percentile": 99.72,
+      "modified_zscore": 69.922,
+      "reference": {
+        "q1": 0.001,
+        "q3": 0.004,
+        "median": 0.0012
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae",
+      "level": "f",
+      "relative_abundance": 0.0037897250926106,
+      "classification": "Normal",
+      "percentile": 43.02,
+      "modified_zscore": -0.49,
+      "reference": {
+        "q1": 0.0031,
+        "q3": 0.0114,
+        "median": 0.0052
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Neisseriales;f__Neisseriaceae",
+      "level": "f",
+      "relative_abundance": 6.092805615129655e-05,
+      "classification": "Normal",
+      "percentile": 99.72,
+      "modified_zscore": 0.0,
+      "reference": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "median": 0.0
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Mogibacteriaceae",
+      "level": "f",
+      "relative_abundance": 7.311366738155586e-05,
+      "classification": "Normal",
+      "percentile": 19.37,
+      "modified_zscore": -0.976,
+      "reference": {
+        "q1": 0.002,
+        "q3": 0.0053,
+        "median": 0.0031
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Erysipelotrichi;o__Erysipelotrichales;f__Erysipelotrichaceae",
+      "level": "f",
+      "relative_abundance": 0.0006945798401247,
+      "classification": "Normal",
+      "percentile": 0.57,
+      "modified_zscore": -1.043,
+      "reference": {
+        "q1": 0.0186,
+        "q3": 0.0525,
+        "median": 0.0326
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae",
+      "level": "f",
+      "relative_abundance": 8.529927861181516e-05,
+      "classification": "Normal",
+      "percentile": 5.13,
+      "modified_zscore": -0.986,
+      "reference": {
+        "q1": 0.0042,
+        "q3": 0.0145,
+        "median": 0.0081
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Fusobacteria;c__Fusobacteriia;o__Fusobacteriales;f__Fusobacteriaceae",
+      "level": "f",
+      "relative_abundance": 0.0064461883408071,
+      "classification": "Very High",
+      "percentile": 99.15,
+      "modified_zscore": 12.508,
+      "reference": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "median": 0.0
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae",
+      "level": "f",
+      "relative_abundance": 0.000377753948138,
+      "classification": "Very Low",
+      "percentile": 0.0,
+      "modified_zscore": -2.561,
+      "reference": {
+        "q1": 0.2313,
+        "q3": 0.3556,
+        "median": 0.2974
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pasteurellales;f__Pasteurellaceae",
+      "level": "f",
+      "relative_abundance": 0.0067995710664846,
+      "classification": "Very High",
+      "percentile": 99.72,
+      "modified_zscore": 3.411,
+      "reference": {
+        "q1": 0.001,
+        "q3": 0.002,
+        "median": 0.001
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Peptostreptococcaceae",
+      "level": "f",
+      "relative_abundance": 0.0003168258919867,
+      "classification": "Normal",
+      "percentile": 15.1,
+      "modified_zscore": -0.92,
+      "reference": {
+        "q1": 0.0041,
+        "q3": 0.015,
+        "median": 0.0085
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Caulobacterales;f__Caulobacteraceae",
+      "level": "f",
+      "relative_abundance": 0.0001096705010723,
+      "classification": "Normal",
+      "percentile": 99.72,
+      "modified_zscore": 0.0,
+      "reference": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "median": 0.0
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Bacilli;o__Gemellales;f__Gemellaceae",
+      "level": "f",
+      "relative_abundance": 0.0001949697796841,
+      "classification": "Very High",
+      "percentile": 98.29,
+      "modified_zscore": 4.256,
+      "reference": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "median": 0.0
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__mitochondria",
+      "level": "f",
+      "relative_abundance": 0.0065193020081887,
+      "classification": "Very High",
+      "percentile": 99.72,
+      "modified_zscore": 107.838,
+      "reference": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "median": 0.0
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Alcaligenaceae",
+      "level": "f",
+      "relative_abundance": 0.0001096705010723,
+      "classification": "Normal",
+      "percentile": 38.18,
+      "modified_zscore": -1.021,
+      "reference": {
+        "q1": 0.001,
+        "q3": 0.004,
+        "median": 0.0021
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae",
+      "level": "f",
+      "relative_abundance": 0.038957399103139,
+      "classification": "Very Low",
+      "percentile": 0.0,
+      "modified_zscore": -3.517,
+      "reference": {
+        "q1": 0.379,
+        "q3": 0.5034,
+        "median": 0.4397
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Tissierellaceae",
+      "level": "f",
+      "relative_abundance": 0.0001096705010723,
+      "classification": "Normal",
+      "percentile": 99.15,
+      "modified_zscore": -299.474,
+      "reference": {
+        "q1": 0.001,
+        "q3": 0.001,
+        "median": 0.001
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae",
+      "level": "f",
+      "relative_abundance": 0.0002071553909144,
+      "classification": "Normal",
+      "percentile": 8.83,
+      "modified_zscore": -0.951,
+      "reference": {
+        "q1": 0.0031,
+        "q3": 0.0103,
+        "median": 0.006
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae",
+      "level": "f",
+      "relative_abundance": 0.4428738545525443,
+      "classification": "Very High",
+      "percentile": 99.72,
+      "modified_zscore": 4.832,
+      "reference": {
+        "q1": 0.0297,
+        "q3": 0.1058,
+        "median": 0.0584
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Veillonellaceae",
+      "level": "f",
+      "relative_abundance": 0.0040090660947553,
+      "classification": "Normal",
+      "percentile": 15.1,
+      "modified_zscore": -0.684,
+      "reference": {
+        "q1": 0.0052,
+        "q3": 0.0154,
+        "median": 0.0091
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae",
+      "level": "f",
+      "relative_abundance": 6.092805615129655e-05,
+      "classification": "Normal",
+      "percentile": 46.44,
+      "modified_zscore": -0.687,
+      "reference": {
+        "q1": 0.0063,
+        "q3": 0.0828,
+        "median": 0.03
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Blautia",
+      "level": "g",
+      "relative_abundance": 0.0152999152052892,
+      "classification": "Normal",
+      "percentile": 0.0,
+      "modified_zscore": -2.16,
+      "reference": {
+        "q1": 0.1268,
+        "q3": 0.2021,
+        "median": 0.1614
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae;g__Prevotella",
+      "level": "g",
+      "relative_abundance": 6.1445442591523e-05,
+      "classification": "Normal",
+      "percentile": 47.01,
+      "modified_zscore": -0.668,
+      "reference": {
+        "q1": 0.0052,
+        "q3": 0.0945,
+        "median": 0.0305
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Fusobacteria;c__Fusobacteriia;o__Fusobacteriales;f__Fusobacteriaceae;g__Fusobacterium",
+      "level": "g",
+      "relative_abundance": 0.0065009278261831,
+      "classification": "Very High",
+      "percentile": 99.72,
+      "modified_zscore": 1.541,
+      "reference": {
+        "q1": 0.0011,
+        "q3": 0.0031,
+        "median": 0.0012
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Peptostreptococcaceae;g__Peptostreptococcus",
+      "level": "g",
+      "relative_abundance": 6.1445442591523e-05,
+      "classification": "Normal",
+      "percentile": 99.72,
+      "modified_zscore": 0.0,
+      "reference": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "median": 0.0
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Tissierellaceae;g__Parvimonas",
+      "level": "g",
+      "relative_abundance": 0.0001106017966647,
+      "classification": "Normal",
+      "percentile": 99.72,
+      "modified_zscore": 0.0,
+      "reference": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "median": 0.0
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Oribacterium",
+      "level": "g",
+      "relative_abundance": 0.0003440944785125,
+      "classification": "Normal",
+      "percentile": 99.15,
+      "modified_zscore": -1.295,
+      "reference": {
+        "q1": 0.0015,
+        "q3": 0.0023,
+        "median": 0.0019
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Faecalibacterium",
+      "level": "g",
+      "relative_abundance": 0.0002089145048111,
+      "classification": "Normal",
+      "percentile": 0.85,
+      "modified_zscore": -1.916,
+      "reference": {
+        "q1": 0.0866,
+        "q3": 0.1594,
+        "median": 0.1242
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium",
+      "level": "g",
+      "relative_abundance": 0.0024946849692158,
+      "classification": "Normal",
+      "percentile": 1.42,
+      "modified_zscore": -1.306,
+      "reference": {
+        "q1": 0.0215,
+        "q3": 0.0494,
+        "median": 0.0315
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Caulobacterales;f__Caulobacteraceae;g__Brevundimonas",
+      "level": "g",
+      "relative_abundance": 0.0001106017966647,
+      "classification": "Normal",
+      "percentile": 99.72,
+      "modified_zscore": 0.0,
+      "reference": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "median": 0.0
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Erysipelotrichi;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Clostridium",
+      "level": "g",
+      "relative_abundance": 0.0005898762488786,
+      "classification": "Normal",
+      "percentile": 55.84,
+      "modified_zscore": -0.734,
+      "reference": {
+        "q1": 0.0012,
+        "q3": 0.0043,
+        "median": 0.0023
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus",
+      "level": "g",
+      "relative_abundance": 0.0038219065291927,
+      "classification": "Normal",
+      "percentile": 45.87,
+      "modified_zscore": -0.503,
+      "reference": {
+        "q1": 0.0032,
+        "q3": 0.0123,
+        "median": 0.0057
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium",
+      "level": "g",
+      "relative_abundance": 8.602361962813218e-05,
+      "classification": "Normal",
+      "percentile": 7.98,
+      "modified_zscore": -0.967,
+      "reference": {
+        "q1": 0.0035,
+        "q3": 0.0112,
+        "median": 0.0065
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Ruminococcus",
+      "level": "g",
+      "relative_abundance": 0.0001720472392562,
+      "classification": "Normal",
+      "percentile": 0.85,
+      "modified_zscore": -1.254,
+      "reference": {
+        "q1": 0.0504,
+        "q3": 0.143,
+        "median": 0.1029
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides",
+      "level": "g",
+      "relative_abundance": 0.4466346331092622,
+      "classification": "Very High",
+      "percentile": 99.72,
+      "modified_zscore": 4.367,
+      "reference": {
+        "q1": 0.0353,
+        "q3": 0.1212,
+        "median": 0.0672
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pasteurellales;f__Pasteurellaceae;g__Haemophilus",
+      "level": "g",
+      "relative_abundance": 0.0065869514458112,
+      "classification": "Very High",
+      "percentile": 99.43,
+      "modified_zscore": 2.848,
+      "reference": {
+        "q1": 0.0011,
+        "q3": 0.0023,
+        "median": 0.0012
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Erysipelotrichi;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Eubacterium",
+      "level": "g",
+      "relative_abundance": 2.45781770366092e-05,
+      "classification": "Normal",
+      "percentile": 42.17,
+      "modified_zscore": -0.687,
+      "reference": {
+        "q1": 0.0026,
+        "q3": 0.0325,
+        "median": 0.0097
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacteriales;f__Enterobacteriaceae;g__Enterobacter",
+      "level": "g",
+      "relative_abundance": 0.0018556523662639,
+      "classification": "Normal",
+      "percentile": 96.3,
+      "modified_zscore": -0.426,
+      "reference": {
+        "q1": 0.0011,
+        "q3": 0.0035,
+        "median": 0.0021
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Veillonellaceae;g__Phascolarctobacterium",
+      "level": "g",
+      "relative_abundance": 0.000122890885183,
+      "classification": "Normal",
+      "percentile": 39.03,
+      "modified_zscore": -1.092,
+      "reference": {
+        "q1": 0.0036,
+        "q3": 0.0107,
+        "median": 0.0068
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Coprococcus",
+      "level": "g",
+      "relative_abundance": 0.000688188957025,
+      "classification": "Normal",
+      "percentile": 0.57,
+      "modified_zscore": -1.787,
+      "reference": {
+        "q1": 0.0414,
+        "q3": 0.0819,
+        "median": 0.0615
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Dorea",
+      "level": "g",
+      "relative_abundance": 0.0003440944785125,
+      "classification": "Normal",
+      "percentile": 0.0,
+      "modified_zscore": -2.043,
+      "reference": {
+        "q1": 0.026,
+        "q3": 0.0462,
+        "median": 0.0355
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Veillonellaceae;g__Veillonella",
+      "level": "g",
+      "relative_abundance": 0.0034163666080886,
+      "classification": "Normal",
+      "percentile": 98.29,
+      "modified_zscore": 0.117,
+      "reference": {
+        "q1": 0.0012,
+        "q3": 0.0029,
+        "median": 0.0021
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Veillonellaceae;g__Dialister",
+      "level": "g",
+      "relative_abundance": 0.0005038526292504,
+      "classification": "Normal",
+      "percentile": 46.72,
+      "modified_zscore": -1.029,
+      "reference": {
+        "q1": 0.0047,
+        "q3": 0.0158,
+        "median": 0.0089
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Parabacteroides",
+      "level": "g",
+      "relative_abundance": 0.0002089145048111,
+      "classification": "Normal",
+      "percentile": 8.83,
+      "modified_zscore": -0.961,
+      "reference": {
+        "q1": 0.0034,
+        "q3": 0.0116,
+        "median": 0.0066
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacteriales;f__Enterobacteriaceae;g__Escherichia",
+      "level": "g",
+      "relative_abundance": 0.4884789795140894,
+      "classification": "Very High",
+      "percentile": 99.72,
+      "modified_zscore": 96.478,
+      "reference": {
+        "q1": 0.0011,
+        "q3": 0.0035,
+        "median": 0.0015
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Pseudobutyrivibrio",
+      "level": "g",
+      "relative_abundance": 3.686726555491379e-05,
+      "classification": "Very High",
+      "percentile": 97.15,
+      "modified_zscore": -0.054,
+      "reference": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "median": 0.0
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales;f__Alcaligenaceae;g__Sutterella",
+      "level": "g",
+      "relative_abundance": 0.0001106017966647,
+      "classification": "Normal",
+      "percentile": 38.18,
+      "modified_zscore": -1.042,
+      "reference": {
+        "q1": 0.0012,
+        "q3": 0.0044,
+        "median": 0.0023
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Actinomycetales;f__Actinomycetaceae;g__Actinomyces",
+      "level": "g",
+      "relative_abundance": 0.0002580708588843,
+      "classification": "Normal",
+      "percentile": 95.73,
+      "modified_zscore": -5.885,
+      "reference": {
+        "q1": 0.0011,
+        "q3": 0.0012,
+        "median": 0.0011
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Ruminococcus",
+      "level": "g",
+      "relative_abundance": 0.0188514617870792,
+      "classification": "Normal",
+      "percentile": 17.09,
+      "modified_zscore": -0.782,
+      "reference": {
+        "q1": 0.0235,
+        "q3": 0.052,
+        "median": 0.0361
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Burkholderiales",
+      "level": "o",
+      "relative_abundance": 0.0001095797009691,
+      "classification": "Normal",
+      "percentile": 36.18,
+      "modified_zscore": -1.022,
+      "reference": {
+        "q1": 0.001,
+        "q3": 0.004,
+        "median": 0.002
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales",
+      "level": "o",
+      "relative_abundance": 0.000121755223299,
+      "classification": "Very High",
+      "percentile": 98.29,
+      "modified_zscore": 2.073,
+      "reference": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "median": 0.0
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Caulobacterales",
+      "level": "o",
+      "relative_abundance": 0.0001095797009691,
+      "classification": "Normal",
+      "percentile": 99.72,
+      "modified_zscore": 0.0,
+      "reference": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "median": 0.0
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales",
+      "level": "o",
+      "relative_abundance": 0.0439779866556275,
+      "classification": "Very Low",
+      "percentile": 0.0,
+      "modified_zscore": -6.72,
+      "reference": {
+        "q1": 0.732,
+        "q3": 0.8482,
+        "median": 0.8015
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Fusobacteria;c__Fusobacteriia;o__Fusobacteriales",
+      "level": "o",
+      "relative_abundance": 0.0064408513125213,
+      "classification": "Very High",
+      "percentile": 99.15,
+      "modified_zscore": 12.58,
+      "reference": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "median": 0.0
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Actinomycetales",
+      "level": "o",
+      "relative_abundance": 0.0003287391029075,
+      "classification": "Normal",
+      "percentile": 92.02,
+      "modified_zscore": -2.679,
+      "reference": {
+        "q1": 0.001,
+        "q3": 0.001,
+        "median": 0.001
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pasteurellales",
+      "level": "o",
+      "relative_abundance": 0.0067939414600886,
+      "classification": "Very High",
+      "percentile": 99.72,
+      "modified_zscore": 3.526,
+      "reference": {
+        "q1": 0.001,
+        "q3": 0.002,
+        "median": 0.001
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Erysipelotrichi;o__Erysipelotrichales",
+      "level": "o",
+      "relative_abundance": 0.0006940047728047,
+      "classification": "Normal",
+      "percentile": 0.57,
+      "modified_zscore": -1.037,
+      "reference": {
+        "q1": 0.018,
+        "q3": 0.051,
+        "median": 0.031
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales",
+      "level": "o",
+      "relative_abundance": 0.0001704573126187,
+      "classification": "Normal",
+      "percentile": 99.72,
+      "modified_zscore": 0.0,
+      "reference": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "median": 0.0
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacteriales",
+      "level": "o",
+      "relative_abundance": 0.4870574197633078,
+      "classification": "Very High",
+      "percentile": 99.72,
+      "modified_zscore": 71.086,
+      "reference": {
+        "q1": 0.001,
+        "q3": 0.004,
+        "median": 0.001
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales",
+      "level": "o",
+      "relative_abundance": 0.0065139044465007,
+      "classification": "Very High",
+      "percentile": 99.43,
+      "modified_zscore": 2.091,
+      "reference": {
+        "q1": 0.001,
+        "q3": 0.002,
+        "median": 0.001
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Betaproteobacteria;o__Neisseriales",
+      "level": "o",
+      "relative_abundance": 6.0877611649539767e-05,
+      "classification": "Normal",
+      "percentile": 99.72,
+      "modified_zscore": 0.0,
+      "reference": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "median": 0.0
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales",
+      "level": "o",
+      "relative_abundance": 0.0037865874446013,
+      "classification": "Normal",
+      "percentile": 37.32,
+      "modified_zscore": -0.519,
+      "reference": {
+        "q1": 0.003,
+        "q3": 0.0138,
+        "median": 0.006
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Bacilli;o__Gemellales",
+      "level": "o",
+      "relative_abundance": 0.0001948083572785,
+      "classification": "Normal",
+      "percentile": 98.29,
+      "modified_zscore": 0,
+      "reference": {
+        "q1": 0.001,
+        "q3": 0.001,
+        "median": 0.001
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales",
+      "level": "o",
+      "relative_abundance": 0.4428115716164223,
+      "classification": "Very High",
+      "percentile": 99.72,
+      "modified_zscore": 3.239,
+      "reference": {
+        "q1": 0.0744,
+        "q3": 0.175,
+        "median": 0.1146
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Fusobacteria",
+      "level": "p",
+      "relative_abundance": 0.0044219307704524,
+      "classification": "Very High",
+      "percentile": 99.15,
+      "modified_zscore": 8.529,
+      "reference": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "median": 0.0
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes",
+      "level": "p",
+      "relative_abundance": 0.0334027133435313,
+      "classification": "Very Low",
+      "percentile": 0.0,
+      "modified_zscore": -8.353,
+      "reference": {
+        "q1": 0.7932,
+        "q3": 0.8956,
+        "median": 0.8561
+      }
+    },
+    {
+      "name": "k__Bacteria;p__OD1",
+      "level": "p",
+      "relative_abundance": 0.3130793857779338,
+      "classification": "Very High",
+      "percentile": 99.72,
+      "modified_zscore": 3162.836,
+      "reference": {
+        "q1": 0.0,
+        "q3": 0.0,
+        "median": 0.0
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Actinobacteria",
+      "level": "p",
+      "relative_abundance": 0.0002256940090779,
+      "classification": "Normal",
+      "percentile": 2.56,
+      "modified_zscore": -0.92,
+      "reference": {
+        "q1": 0.006,
+        "q3": 0.0241,
+        "median": 0.013
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria",
+      "level": "p",
+      "relative_abundance": 0.3438490023488895,
+      "classification": "Very High",
+      "percentile": 99.72,
+      "modified_zscore": 60.749,
+      "reference": {
+        "q1": 0.002,
+        "q3": 0.007,
+        "median": 0.004
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Bacteroidetes",
+      "level": "p",
+      "relative_abundance": 0.3040934206016835,
+      "classification": "Normal",
+      "percentile": 94.87,
+      "modified_zscore": 1.785,
+      "reference": {
+        "q1": 0.0744,
+        "q3": 0.175,
+        "median": 0.1146
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacteriales;f__Enterobacteriaceae;g__Escherichia;s__coli",
+      "level": "s",
+      "relative_abundance": 0.7668650027045824,
+      "classification": "Very High",
+      "percentile": 99.72,
+      "modified_zscore": 83.409,
+      "reference": {
+        "q1": 0.0021,
+        "q3": 0.0073,
+        "median": 0.0033
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__ovatus",
+      "level": "s",
+      "relative_abundance": 0.1429951317517966,
+      "classification": "Very High",
+      "percentile": 98.29,
+      "modified_zscore": 4.207,
+      "reference": {
+        "q1": 0.0045,
+        "q3": 0.029,
+        "median": 0.0134
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__fragilis",
+      "level": "s",
+      "relative_abundance": 0.0299822270303685,
+      "classification": "Very High",
+      "percentile": 98.01,
+      "modified_zscore": 2.084,
+      "reference": {
+        "q1": 0.0038,
+        "q3": 0.0119,
+        "median": 0.0059
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Ruminococcus;s__gnavus",
+      "level": "s",
+      "relative_abundance": 0.0296344950158411,
+      "classification": "Very High",
+      "percentile": 93.73,
+      "modified_zscore": 0.643,
+      "reference": {
+        "q1": 0.0025,
+        "q3": 0.0136,
+        "median": 0.0058
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pasteurellales;f__Pasteurellaceae;g__Haemophilus;s__parainfluenzae",
+      "level": "s",
+      "relative_abundance": 0.010354686654818,
+      "classification": "Very High",
+      "percentile": 99.43,
+      "modified_zscore": 2.117,
+      "reference": {
+        "q1": 0.0019,
+        "q3": 0.004,
+        "median": 0.0024
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Veillonellaceae;g__Veillonella;s__parvula",
+      "level": "s",
+      "relative_abundance": 0.0042500579553357,
+      "classification": "Normal",
+      "percentile": 98.29,
+      "modified_zscore": -0.087,
+      "reference": {
+        "q1": 0.0022,
+        "q3": 0.0043,
+        "median": 0.0036
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium;s__citroniae",
+      "level": "s",
+      "relative_abundance": 0.0029943590139865,
+      "classification": "Normal",
+      "percentile": 87.75,
+      "modified_zscore": -0.526,
+      "reference": {
+        "q1": 0.0024,
+        "q3": 0.0081,
+        "median": 0.0041
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__infantis",
+      "level": "s",
+      "relative_abundance": 0.0018159338536434,
+      "classification": "Normal",
+      "percentile": 90.03,
+      "modified_zscore": -0.822,
+      "reference": {
+        "q1": 0.0021,
+        "q3": 0.0062,
+        "median": 0.0038
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Veillonellaceae;g__Veillonella;s__dispar",
+      "level": "s",
+      "relative_abundance": 0.0011204698245885,
+      "classification": "Normal",
+      "percentile": 94.02,
+      "modified_zscore": -0.676,
+      "reference": {
+        "q1": 0.0019,
+        "q3": 0.0048,
+        "median": 0.0028
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Erysipelotrichi;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Clostridium;s__ramosum",
+      "level": "s",
+      "relative_abundance": 0.0009272853720732,
+      "classification": "Normal",
+      "percentile": 86.89,
+      "modified_zscore": -0.734,
+      "reference": {
+        "q1": 0.0034,
+        "q3": 0.0113,
+        "median": 0.005
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Clostridium;s__hathewayi",
+      "level": "s",
+      "relative_abundance": 0.0004829611312881,
+      "classification": "Normal",
+      "percentile": 95.73,
+      "modified_zscore": -0.724,
+      "reference": {
+        "q1": 0.0024,
+        "q3": 0.0065,
+        "median": 0.0041
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Faecalibacterium;s__prausnitzii",
+      "level": "s",
+      "relative_abundance": 0.0003284135692759,
+      "classification": "Normal",
+      "percentile": 0.85,
+      "modified_zscore": -2.037,
+      "reference": {
+        "q1": 0.1578,
+        "q3": 0.2769,
+        "median": 0.2216
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__anginosus",
+      "level": "s",
+      "relative_abundance": 0.0002704582335213,
+      "classification": "Normal",
+      "percentile": 98.86,
+      "modified_zscore": -49.245,
+      "reference": {
+        "q1": 0.0021,
+        "q3": 0.0021,
+        "median": 0.0021
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Porphyromonadaceae;g__Parabacteroides;s__distasonis",
+      "level": "s",
+      "relative_abundance": 0.0002318213430183,
+      "classification": "Normal",
+      "percentile": 23.93,
+      "modified_zscore": -0.928,
+      "reference": {
+        "q1": 0.0037,
+        "q3": 0.0137,
+        "median": 0.0067
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__plebeius",
+      "level": "s",
+      "relative_abundance": 0.0002897766787728,
+      "classification": "Normal",
+      "percentile": 84.9,
+      "modified_zscore": -0.611,
+      "reference": {
+        "q1": 0.0038,
+        "q3": 0.051,
+        "median": 0.0195
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacteriales;f__Enterobacteriaceae;g__Escherichia;s__vulneris",
+      "level": "s",
+      "relative_abundance": 0.0010238775983308,
+      "classification": "Normal",
+      "percentile": 99.15,
+      "modified_zscore": -23.157,
+      "reference": {
+        "q1": 0.0018,
+        "q3": 0.0018,
+        "median": 0.0018
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Bacteroidetes;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae;g__Prevotella;s__copri",
+      "level": "s",
+      "relative_abundance": 9.659222625763078e-05,
+      "classification": "Normal",
+      "percentile": 59.54,
+      "modified_zscore": -0.711,
+      "reference": {
+        "q1": 0.0067,
+        "q3": 0.2065,
+        "median": 0.0602
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Ruminococcaceae;g__Ruminococcus;s__flavefaciens",
+      "level": "s",
+      "relative_abundance": 7.727378100610463e-05,
+      "classification": "Normal",
+      "percentile": 64.1,
+      "modified_zscore": -0.936,
+      "reference": {
+        "q1": 0.0058,
+        "q3": 0.0325,
+        "median": 0.0143
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Lachnospiraceae;g__Pseudobutyrivibrio;s__xylanivorans",
+      "level": "s",
+      "relative_abundance": 5.795533575457848e-05,
+      "classification": "Normal",
+      "percentile": 98.58,
+      "modified_zscore": -10.989,
+      "reference": {
+        "q1": 0.002,
+        "q3": 0.0022,
+        "median": 0.0021
+      }
+    },
+    {
+      "name": "k__Bacteria;p__Firmicutes;c__Erysipelotrichi;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Eubacterium;s__dolichum",
+      "level": "s",
+      "relative_abundance": 3.863689050305232e-05,
+      "classification": "Normal",
+      "percentile": 74.07,
+      "modified_zscore": -0.824,
+      "reference": {
+        "q1": 0.0023,
+        "q3": 0.0082,
+        "median": 0.0046
+      }
+    }
+  ],
+  "reference_population": {
+    "bioproject": "PRJEB53463",
+    "n_samples": 350
+  }
+}

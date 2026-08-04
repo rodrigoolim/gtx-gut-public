@@ -1,6 +1,6 @@
-# Example input
+# Example input and output
 
-Both files are for [SRR37635745](https://www.ncbi.nlm.nih.gov/sra/?term=SRR37635745),
+All three files are for [SRR37635745](https://www.ncbi.nlm.nih.gov/sra/?term=SRR37635745),
 a publicly deposited Crohn's disease patient sample, processed through
 16S rRNA amplicon sequencing (QIIME 2 + DADA2 + GreenGenes 13.8, same pipeline
 described in the dissertation). Used as one of the eight comparative cases in
@@ -11,8 +11,13 @@ the dissertation's Experimentos chapter.
 - `SRR37635745_shannon_diversity2.csv` -- this sample's Shannon diversity
   index, as produced by `src/shannon.R` on the DADA2 feature table, the
   `--patient-shannon-csv` input.
+- `SRR37635745_results.json` -- the corresponding output of
+  `generate_report_json.py` on the two files above: Shannon `Very Low`, F/B
+  ratio `Normal`, `Enterotype 1 (Bacteroides)`, 101 classified taxa. Included
+  so you can compare your own run's output without having to generate one
+  first.
 
-Provided here purely as ready-to-use input for `generate_report_json.py` --
+The two input files are ready-to-use input for `generate_report_json.py` --
 see the Quickstart section in the main README.
 
 `fastq/` bundles already quality-filtered FASTQ (`*_gcfix.fastq.gz`) for all
